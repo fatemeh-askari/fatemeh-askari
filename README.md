@@ -1,4 +1,5 @@
-* Hi, I’m @fatemeh-askari
+* Hi, I’m @fatemeh-askari.
+  
 Welcome to my GitHub profile! I have an unwavering passion for artificial intelligence, deep learning, and machine algorithms, and I'm committed to continually expanding my expertise in these dynamic fields.
 
 Technical Proficiency
