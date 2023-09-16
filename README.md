@@ -8,9 +8,11 @@ Programming Languages: Proficient in Python and JavaScript, I leverage these lan
 Web Development: My expertise spans both front-end and back-end web development, with a particular focus on Django. Additionally, I'm well-versed in optimizing websites for search engines, thanks to my expertise in SEO.
 Ongoing Learning: My upcoming endeavors include the exploration of new technologies and frameworks that complement my skill set and contribute to my growth in the field of technology.
 
+
 Application of Academic Background
 
 Looking ahead, my objective is to develop applications that seamlessly integrate my academic foundation in management. I envision numerous opportunities to leverage AI and data analysis to enhance decision-making processes within the management field.
+
 
 Research Interests
 
