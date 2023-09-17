@@ -18,10 +18,6 @@ Welcome to my GitHub profile! I'm deeply passionate about artificial intelligenc
 Looking ahead, my objective is to develop applications that seamlessly integrate my academic foundation in management. I envision a multitude of opportunities to leverage AI and data analysis to enhance decision-making processes within the management field.
 
 
-### Research Interests
-
-Beyond coding, I'm a dedicated researcher with a keen interest in pioneering approaches to market research and consumer behavior analysis. My primary focus revolves around harnessing the potential of neural networks and dissecting common behaviors, with a specific focus on analyzing time series data. This convergence of technology and human behavior continues to intrigue me and inspires my research.
-
 #### Let's Connect.
 
 
