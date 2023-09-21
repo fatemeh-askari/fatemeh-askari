@@ -1,1 +1,1 @@
-Fields of Activity and Interest: deep learning, time series analysis, back-end web application development, front-end design, implementation of new decision-making systems.
+Fields of Activity and Interest: Deep Learning, Time Series Analysis, Back-End Web Application Development, Front-End Design, Implementation of Decision-Making Systems.
